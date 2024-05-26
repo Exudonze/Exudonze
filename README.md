@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Exudonze&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exudonze&label=Profile%20views&color=0e75b6&style=flat" alt="exudonze" /> </p>
 
